@@ -1,0 +1,9 @@
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.exe.config
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.exe
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.pdb
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csprojResolveAssemblyReference.cache
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Form1.resources
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Properties.Resources.resources
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csproj.GenerateResource.Cache
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.exe
+E:\Projects\c#\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.pdb
